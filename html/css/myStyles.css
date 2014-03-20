@@ -1,0 +1,30 @@
+
+body{
+    padding: 40px;
+}
+
+
+#loginForm{
+    
+    border-radius: 10px;
+    box-shadow:3px 3px 5px 1px crimson; 
+    padding: 3px 3px 3px 3px;
+
+}
+
+#myModal{
+    
+    border: 3px solid rgb(112, 155, 234);
+    border-radius: 15px;
+}
+
+#mapDiv{
+    
+    position: relative;   
+    width: 95%; 
+    height: 260px; 
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px 1px rgb(112, 155, 234);
+    
+}
